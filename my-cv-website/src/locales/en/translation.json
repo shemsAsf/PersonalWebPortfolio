@@ -27,7 +27,7 @@
     },
     "my_resume": "My Resume",
     "professional_experience": "Professional Experience",
-    "education": "Education",
+    "education": "Education and Certifications",
     "ivalua": {
         "title": "IVALUA - MONTPELLIER",
         "subtitle": "Apprenticeship | 2023 (2 years)",
@@ -42,6 +42,11 @@
         "title": "DEGRIFF PC - SAINT GELY DU FESC",
         "subtitle": "Internship | 2021 (1 month)",
         "text": "Degriff PC is a local hardware store known for its personalized service and repair expertise. In addition to selling computer hardware, they operate a workshop offering device repairs."
+    },
+    "azure": {
+        "title": "Azure Fundamentals (AZ-900)",
+        "subtitle": "Microsoft Certification",
+        "text": "Earned the AZ-900 certification, demonstrating a solid understanding of cloud concepts, Azure core services, security, and pricing models. Familiar with DevOps practices and cloud architecture principles (IaaS, PaaS, SaaS)."
     },
     "epsi": {
         "title": "EPSI - MONTPELLIER",

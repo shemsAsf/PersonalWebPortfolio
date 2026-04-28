@@ -27,7 +27,7 @@
     },
     "my_resume": "Mon CV",
     "professional_experience": "Expériences Professionnelles",
-    "education": "Formation",
+    "education": "Formation et Certifications",
     "ivalua": {
         "title": "IVALUA - MONTPELLIER",
         "subtitle": "Alternance | 2023 (2 ans)",
@@ -42,6 +42,11 @@
         "title": "DEGRIFF PC - SAINT GELY DU FESC",
         "subtitle": "Stage | 2021 (1 mois)",
         "text": "Degriff PC est un magasin d'informatique local réputé pour son service personnalisé et son expertise en réparation. En plus de la vente de matériel informatique, ils disposent d'un atelier proposant des réparations d'appareils."
+    },
+    "azure": {
+        "title": "Azure Fundamentals (AZ-900)",
+        "subtitle": "Certification Microsoft",
+        "text": "Obtention de la certification AZ-900, validant ma compréhension des concepts du cloud, des services principaux d’Azure, de la sécurité et des modèles de tarification. À l’aise avec les principes d’architecture cloud (IaaS, PaaS, SaaS) et les bases du DevOps."
     },
     "epsi": {
         "title": "EPSI - MONTPELLIER",
