@@ -13,10 +13,10 @@
     "framer-motion": "^12.18.1",
     "i18next": "^25.10.10",
     "lucide-react": "^0.487.0",
-    "next": "^15.2.4",
-    "react": "^19.0.0",
+    "next": "^16.2.4",
+    "react": "^19.2.5",
     "react-device-detect": "^2.2.3",
-    "react-dom": "^19.0.0",
+    "react-dom": "^19.2.5",
     "react-i18next": "^16.6.6",
     "react-icons": "^5.5.0"
   },
