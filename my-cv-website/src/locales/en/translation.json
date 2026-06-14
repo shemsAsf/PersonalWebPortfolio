@@ -1,7 +1,7 @@
 {
-    "role": "Full Stack Developer | Software Engineer",
+    "role": "Backend Developer | C# / .NET | Azure",
     "and_more": "And many more",
-    "intro": "Hi, I am a developer driven by a passion for understanding, building, and refining technology. Let's create something amazing together!",
+    "intro": "Hi, I'm a backend developer specializing in C#/.NET and Azure, with a passion for clean architecture, scalable systems, and delivering high-quality software. Let's build something great together!",
     "home": "Home",
     "about": "About",
     "resume": "Resume",
@@ -14,15 +14,15 @@
     "my_line_of_work": "My line of work",
     "my_photo_alt": "Your Photo",
     "about_paragraph_1": {
-        "part1": "I’m an enthusiastic and creative developer with a strong focus on",
-        "part2": "clean architecture, scalability, and maintainability.",
+        "part1": "I'm a backend developer specialized in",
+        "part2": "C#/.NET and Azure, with a strong focus on clean architecture, scalability, and maintainability.",
         "part3": "I enjoy designing",
-        "part4": "modular systems, building thoughtful user experiences, and structuring codebases",
+        "part4": "modular systems, applying SOLID principles and design patterns, and building codebases",
         "part5": "that are easy to extend and collaborate on."
     },
     "about_paragraph_2": {
-        "part1": "Whether it’s client-side interfaces or backend logic, I aim for",
-        "part2": "clarity, reusability, and long-term value",
+        "part1": "Whether it's backend logic or full-stack web projects, I aim for",
+        "part2": "clarity, reliability, and long-term value",
         "part3": "in every project."
     },
     "my_resume": "My Resume",
@@ -30,13 +30,14 @@
     "education": "Education and Certifications",
     "ivalua": {
         "title": "IVALUA - MONTPELLIER",
-        "subtitle": "Apprenticeship | 2023 (2 years)",
-        "text": "During my internship at Ivalua, a global leader in cloud-based procurement and spend management software, I worked on improving an internal tool used by the R&D team. My contributions helped streamline development workflows and enhance productivity across engineering teams."
+        "subtitle": "Apprenticeship | Sep 2023 - Sep 2025 (2 years)",
+        "text": "Ivalua is a SaaS software company specializing in procurement and spend management solutions, trusted by large enterprises worldwide. I joined the R&D team to contribute to a critical internal tool used daily by 50+ collaborators across international offices. I worked in an Agile Scrum environment within a multicultural team, ensuring the reliability and continuous improvement of the tool.",
+        "stack": "Stack: C# / .NET Core / SQL Server / SSMS / SVN / Agile Scrum / TDD"
     },
-    "harmonessens": {
-        "title": "HARMONESSENS - SAINT GELY DU FESC",
-        "subtitle": "Freelance | 2024 (3 months)",
-        "text": "I developed a website in React for a naturopath, featuring a custom-built appointment booking system with an integrated calendar. The site includes presentation, contact, and reservation pages."
+    "freelance": {
+        "title": "FREELANCE",
+        "subtitle": "2025 - Present",
+        "text": "Custom web development for various clients: a portfolio site for a visual designer, a showcase website for a restaurant, and an appointment management platform for a health practitioner."
     },
     "degriff": {
         "title": "DEGRIFF PC - SAINT GELY DU FESC",
@@ -45,18 +46,23 @@
     },
     "azure": {
         "title": "Azure Fundamentals (AZ-900)",
-        "subtitle": "Microsoft Certification",
+        "subtitle": "Microsoft Certification | April 2026",
         "text": "Earned the AZ-900 certification, demonstrating a solid understanding of cloud concepts, Azure core services, security, and pricing models. Familiar with DevOps practices and cloud architecture principles (IaaS, PaaS, SaaS)."
+    },
+    "toeic": {
+        "title": "TOEIC - Level C1",
+        "subtitle": "Score 990/990 | May 2026",
+        "text": "Achieved a perfect TOEIC score of 990/990, certifying a C1 level of English proficiency."
     },
     "epsi": {
         "title": "EPSI - MONTPELLIER",
         "subtitle": "Master's Degree | 2023 - 2025",
-        "text": "I joined EPSI in 2023 to pursue a Mastère in Information Systems. The program focuses on software architecture, DevOps, and data engineering."
+        "text": "Expert Master's in Computer Science and Information Systems. The program focuses on software architecture, DevOps, and data engineering."
     },
     "cmi": {
-        "title": "CMI - MONTPELLIER SCIENCE UNIVERSITY",
+        "title": "FACULTY OF SCIENCES - MONTPELLIER",
         "subtitle": "Bachelor's Degree | 2020 - 2023",
-        "text": "I completed the first three years of the CMI at Montpellier Science University, earning a Bachelor's as part of the selective FIGURE network."
+        "text": "Bachelor's in Computer Science, as part of the selective CMI (Cursus Master en Ingénierie) program within the FIGURE network."
     },
     "web_programming": "Web Programming",
     "web_programming_items": [
@@ -69,37 +75,46 @@
     "frameworks_items": [
         "React",
         "Next.js",
-        "Flask",
-        "Django",
-        "Node.js"
+        "Node.js",
+        "Tailwind CSS",
+        ".NET Core"
     ],
     "databases": "Databases",
     "databases_items": [
         "MySQL",
         "Oracle",
+        "SQLite",
         "PostgreSQL",
-        "MongoDB"
+        "SQL Server"
     ],
     "development_tools": "Development Tools",
     "development_tools_items": [
         "Git",
-        "Maven",
         "Docker",
-        "Kubernetes",
-        "Vercel",
-        "Render"
+        "GitHub Actions",
+        "Jira",
+        "Azure",
+        "CI/CD"
     ],
     "environments": "Environments",
     "environments_items": [
         "Windows",
         "Linux (Ubuntu)"
     ],
+    "backend_skills": "Backend",
+    "backend_skills_items": [
+        "C#",
+        ".NET Core",
+        "Node.js",
+        "REST API"
+    ],
     "soft_skills_items": [
-        "Collaborative Mindset",
+        "Problem Solving",
+        "Team Collaboration",
+        "Continuous Learning",
+        "Autonomy & Rigor",
         "Adaptability",
-        "Analytical Problem Solving",
-        "Communication",
-        "Proactive Autonomy"
+        "Reliability"
     ],
     "languages": "Languages",
     "remote_work_skills": "Remote Work Skills",
@@ -118,7 +133,7 @@
         },
         {
             "title": "Asynchronous Communication",
-            "description": "Skilled in writing clear documentation and communicating progress async."
+            "description": "Skilled in writing clear documentation and communicating progress asynchronously."
         },
         {
             "title": "Self-Discipline",
@@ -134,14 +149,14 @@
         {
             "title": "Creative Portfolio",
             "subtitle": "UI/UX & Visual Design",
-            "description": "A portfolio site crafted for a visual designer to showcase their work in branding, animation, and 3D design.\n\nBuilt with React.",
+            "description": "A portfolio site crafted for a visual designer to showcase their work in branding, animation, and 3D design. Features a no-code Page Builder allowing the client to manage projects independently.\n\nBuilt with React / Node.js / REST API .NET / PostgreSQL / S3 / Docker / GitHub CI/CD.",
             "image": "/Img/KatPortfolio.png",
             "link": "https://www.ekaterinapotapova.design/"
         },
         {
             "title": "Harmonessens",
             "subtitle": "Wellness & Appointments",
-            "description": "A calming and elegant website for a health practitioner. Users can learn about services and book personalized appointments through a fully custom-built scheduling system.\n\nBuilt with React.ts and a MySQL backend.",
+            "description": "A calming and elegant website for a health practitioner. Users can learn about services and book personalized appointments through a fully custom-built scheduling system with automated email responses.\n\nBuilt with React / Node.js / MySQL.",
             "image": "/Img/HarmonessensBG.png",
             "link": "https://harmonessens.fr/"
         },
@@ -154,7 +169,7 @@
         }
     ],
     "interests_title": "Personal Interests",
-    "interests_subtitle": "When I’m not coding, here’s what lights me up.",
+    "interests_subtitle": "When I'm not coding, here's what lights me up.",
     "interest_para1": "What truly <span class='italic'>fascinates</span> me about computer science is understanding <strong>how things work at their core.</strong>",
     "interest_para2": "From a young age, I've been captivated by the process of discovering how systems, software, and algorithms come together and how we can use them to do as we please. <strong>It's not just about learning to code, it's about unraveling and mastering the logic behind the tools we use every day and how they shape our world.</strong> This curiosity fuels my desire to not only keep learning but also to bring my growing skills and knowledge into the teams I work with.",
     "interest_para3": "I'm passionate about applying what I know, collaborating with others, and using technology to create meaningful solutions.",

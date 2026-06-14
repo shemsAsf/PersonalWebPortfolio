@@ -13,8 +13,8 @@ export default function Resume() {
             img: "/Img/Ivalua.png",
         },
         {
-            key: "harmonessens",
-            img: "/Img/harmonessens.png",
+            key: "freelance",
+            img: "/Img/freelance.png",
         },
         {
             key: "degriff",
